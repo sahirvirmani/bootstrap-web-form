@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+}
+
+.basic-info {
+	border-radius: 15px;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 5px;
+	background-color: #3399ff;
+	color: #ffffff;
+}
